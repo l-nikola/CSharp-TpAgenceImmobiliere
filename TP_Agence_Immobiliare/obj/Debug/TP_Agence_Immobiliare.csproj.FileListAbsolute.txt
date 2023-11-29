@@ -1,0 +1,7 @@
+C:\Users\fouka\source\repos\TP_Agence_Immobiliare\TP_Agence_Immobiliare\bin\Debug\TP_Agence_Immobiliare.exe.config
+C:\Users\fouka\source\repos\TP_Agence_Immobiliare\TP_Agence_Immobiliare\bin\Debug\TP_Agence_Immobiliare.exe
+C:\Users\fouka\source\repos\TP_Agence_Immobiliare\TP_Agence_Immobiliare\bin\Debug\TP_Agence_Immobiliare.pdb
+C:\Users\fouka\source\repos\TP_Agence_Immobiliare\TP_Agence_Immobiliare\obj\Debug\TP_Agence_Immobiliare.csproj.AssemblyReference.cache
+C:\Users\fouka\source\repos\TP_Agence_Immobiliare\TP_Agence_Immobiliare\obj\Debug\TP_Agence_Immobiliare.csproj.CoreCompileInputs.cache
+C:\Users\fouka\source\repos\TP_Agence_Immobiliare\TP_Agence_Immobiliare\obj\Debug\TP_Agence_Immobiliare.exe
+C:\Users\fouka\source\repos\TP_Agence_Immobiliare\TP_Agence_Immobiliare\obj\Debug\TP_Agence_Immobiliare.pdb
